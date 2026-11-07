@@ -1,1 +1,1 @@
-{"web":{"version":"0.1.1","notes":"말투 입력의 용어와 대사가 편지마다 반복되는 문제를 줄였습니다."},"windows":{"version":"0.1.1","notes":"말투 입력의 용어와 대사가 편지마다 반복되는 문제를 줄였습니다."}}
+{"web":{"version":"0.1.2","notes":"Claude·OpenAI에서 편지 생성·검토가 출력 한도에 걸려 실패하던 문제를 고쳤습니다."},"windows":{"version":"0.1.2","notes":"Claude·OpenAI에서 편지 생성·검토가 출력 한도에 걸려 실패하던 문제와 설정 화면의 Illegal invocation 오류를 고쳤습니다."}}
